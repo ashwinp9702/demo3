@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D6DF-8D78
+
+ Directory of C:\Users\ashwi\OneDrive\Desktop\mypro
+
+04/28/2022  10:31 PM    <DIR>          .
+04/28/2022  10:31 PM    <DIR>          ..
+04/28/2022  10:31 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  89,253,208,064 bytes free
